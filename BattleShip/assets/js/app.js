@@ -1,4 +1,4 @@
-//Author: Nnamdi Nwanze
+
 //Purpose: create a gamePlay object that controls game play for a Battleship game
 
 var gamePlay = {
