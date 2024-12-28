@@ -1,4 +1,4 @@
-//Author: Nnamdi Nwanze
+
 //Purpose: create ship, and battleship objects for a Battleship game
 
 var boardXsize = 10, boardYsize = 10;
