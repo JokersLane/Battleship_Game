@@ -1,4 +1,4 @@
-//Author: Nnamdi Nwanze
+
 //Purpose: create functions that modify the view for a Battleship game
 
 
