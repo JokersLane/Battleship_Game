@@ -1,4 +1,4 @@
-///Author: Nnamdi Nwanze
+
 //Purpose: create a listeners that listens for clicks for a Battleship game
 
 //addEventListeners to listen for user clicks on the game board and then take the appropriate actions.
